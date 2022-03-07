@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_home"
+    app:startDestination="@id/listInformationFragment">
+
+
+    <fragment
+        android:id="@+id/listInformationFragment"
+        tools:layout="@layout/fragment_list_information"
+        android:name="com.app.intrumentedtest.ui.ListInformationFragment"
+        android:label="ListInformationFragment" >
+        <action
+            android:id="@+id/toDetails"
+            app:destination="@id/detailsInfoFragment" />
+        <argument
+            android:name="title"
+            app:argType="string"
+            android:defaultValue=""/>
+    </fragment>
+    <fragment
+        android:id="@+id/detailsInfoFragment"
+        tools:layout="@layout/fragment_details_info"
+        android:name="com.app.intrumentedtest.ui.DetailsInfoFragment"
+        android:label="DetailsInfoFragment" />
+</navigation>

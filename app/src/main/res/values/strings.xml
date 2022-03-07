@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Info</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_feed">Meu Feed</string>
+    <string name="information">Explorar</string>
+    <string name="chat">Chat</string>
+    <string name="profile">Perfil</string>
+    <string name="publications">Publicações</string>
+    <string name="like">Curtir</string>
+    <string name="comment">Comentar</string>
+    <string name="comentarios">Comentários</string>
+    <string name="likes">Curtidas</string>
+    <string name="see_likes_and_comments">Visualisar curtidas e comentários</string>
+    <string name="new_publication">Nova pulicação</string>
+    <string name="create_publication">Criar nova publicação</string>
+    <string name="title_publication">Titulo da sua publicação</string>
+    <string name="woman_talk">Papo de mulher</string>
+    <string name="write_your_publish">Escreva sua publicação</string>
+    <string name="hint_title_post">Ex: Olá meninas</string>
+    <string name="hint_text_post">Fique a vontade, esse é seu espaço..</string>
+    <string name="add_photo">Adicionar uma foto à publicação</string>
+    <string name="publish">Publicar</string>
+    <string name="cancel_post">Cancelar publicação</string>
+    <string name="apagar_foto">Apagar foto</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="friends">Amigas</string>
+    <string name="my_posts">Meus posts</string>
+    <string name="my_posts_save">Salvos</string>
+    <string name="look_professional">Procurar um profissional</string>
+    <string name="call_whatsapp">Chamar no Whatsapp</string>
+    <string name="error_ubs">Erro ao buscar unidade de saúde</string>
+    <string name="find_ubs">Encontrar Unidade básica</string>
+    <string name="api_key">AIzaSyBoitJMR7wK34tae0IukLFChqdnLvwTSEs</string>
+    <string name="text_banner_alo_mae">Que tal conhecer um pouquinho desse projeto organizado pela prefeitura de são paulo? melhor qualidade de vida para você e sua família!</string>
+    <string name="alo_mae">Alo Mãe!</string>
+    <string name="em_breve">Em breve</string>
+
+</resources>
